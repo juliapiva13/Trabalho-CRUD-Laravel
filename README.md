@@ -166,6 +166,10 @@ O banco de dados possui as seguintes tabelas:
 
 ## 📸 Screenshots
 
+<img width="1588" height="770" alt="image" src="https://github.com/user-attachments/assets/bb3a2fac-a1fe-4eb2-b5c5-168ddcf0d42a" />
+<img width="1592" height="771" alt="image" src="https://github.com/user-attachments/assets/cbef900a-4fca-4c05-ad15-f1f142c2eb53" />
+<img width="1584" height="767" alt="image" src="https://github.com/user-attachments/assets/e2fd737e-7b3e-4546-a1ae-d039585b1006" />
+
 
 
 ## 👨‍💻 Autor
